@@ -2,7 +2,6 @@
   "name": "jsulz/jsulz-theme",
   "description": "Theme for jsulz-blog",
   "type":"wordpress-theme",
-  "minimum-stability" : "stable",
   "require": {
 	  "timber/timber": "1.*"
   },
